@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Voicemod Application Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="net.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name="Voicemod App Test Cases">
+		<classes>
+			<class name="net.voicemod.qa.testcases.VoiceModTest"></class>
+			<class name="net.voicemod.qa.testcases.HomePageTest"></class>
+
+
+		</classes>
+	</test>
+</suite>
