@@ -30,4 +30,9 @@ o Close the browser when we finish each test case.
 the results of the analysis.
 I have tried to follow it but it was diving me some errors if i got some more time i can fix this.
 
+I have used the following sources to do this testing project.
+https://github.com/nadvolod/selenium-java
+https://github.com/bonigarcia/webdrivermanager
+https://github.com/mozilla/geckodriver
+
 
