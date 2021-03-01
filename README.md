@@ -8,6 +8,7 @@ net>>qa.ExtentReportListner>>ExtentReporterNG (class that build Test Nodes and g
 net>>voicemod.qa (has four test classes...base>>config>>pages>>util... who have the test classes for the webside different features)
 
 It has following characteristics as needed: 
+
 ● Selenium and the necessary dependencies to execute the project.
 --Downloaded the Selenium and add the jar files to the project directory 
 
